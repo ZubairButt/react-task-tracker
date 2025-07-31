@@ -17,6 +17,12 @@
       "day": "Friday",
       "reminder": true,
       "id": 3
+    },
+    {
+      "id": 4,
+      "text": "Test API Integration",
+      "day": "Today",
+      "reminder": true
     }
   ]
 }
